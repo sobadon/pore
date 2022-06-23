@@ -13,5 +13,6 @@ pandoc \
     -V documentclass=bxjsarticle \
     -V classoption=pandoc \
     -M "crossrefYaml=/opt/configs/config.yaml" \
+    --listings \
     ${SRC} \
     -o ${DST}
