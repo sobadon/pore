@@ -8,3 +8,4 @@ lstPrefix: "コード"
 secPrefix: "セクション"
 
 indent: true
+number-sections: true
